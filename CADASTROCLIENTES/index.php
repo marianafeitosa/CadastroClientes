@@ -24,7 +24,7 @@ ini_set('display_errors', 1);
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP - Sistema de Acesso ao Banco de Dados</title>
+    <title>Sistema de Acesso ao Banco de Dados</title>
 </head>
 <body>
     <?php
