@@ -1,0 +1,9 @@
+.custom-table-container {
+    background-color: #f57cc6;
+}
+
+
+.custom-table th,
+.custom-table td {
+    vertical-align: middle;
+}
